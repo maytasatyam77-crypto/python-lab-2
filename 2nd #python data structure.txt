@@ -1,0 +1,6 @@
+# python data structure (to creat a tuple)
+
+points = (10,20,30)
+print(points[1])
+points[0] = 50
+days = ("Mon","Tue","Wed","Thu","Fri","Sat","Sun")

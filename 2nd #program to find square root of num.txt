@@ -1,0 +1,5 @@
+#program to find square root of numbers using map()
+numbers = [1,2,3,4,5]
+squareroot  = list(map(lambda x:x**(1/2),numbers))
+print("orginal list:", numbers)
+print("squareroot:",squareroot)    
